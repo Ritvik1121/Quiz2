@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Exercise0{
+public class Challenge0{
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     int worth;
